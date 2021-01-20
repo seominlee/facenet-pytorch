@@ -1,6 +1,6 @@
 
 
-#설치
+# 설치
 
 pip install facenet-pytorch
 
